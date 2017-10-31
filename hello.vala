@@ -1,3 +1,7 @@
+// LANGUAGE: Vala
+// ENV: hello.java
+// AUTHOR: Matheus Leon
+// GITHUB: https://github.com/mLeon1
 class Demo.HelloWorld : GLib.Object {
 
     public static int main(string[] args) {
